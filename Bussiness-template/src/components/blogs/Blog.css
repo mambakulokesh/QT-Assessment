@@ -1,0 +1,23 @@
+#blogContainer{
+    width: 100%;
+    height: 50vh;
+    background-image: url('https://wallpapercave.com/wp/wp4254945.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#numbers{
+    font-size: 2.1rem;
+    font-weight: none;
+    /* margin: 0; */
+    font-weight: normal;
+}
+#title{
+    margin: 0;
+    font-size: 1rem;
+    font-weight: normal;
+}

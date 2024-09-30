@@ -1,0 +1,13 @@
+#homeContainer{
+    height: 80vh;
+    background-image: url('https://i.pinimg.com/originals/01/13/31/011331f0f29848bad27e5bce5804c143.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#button{
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
